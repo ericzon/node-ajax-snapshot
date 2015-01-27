@@ -118,4 +118,3 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 * connect with [node-ajax-seo](https://github.com/ericzon/node-ajax-seo) (WIP).
 * generate images from pages (WIP).
 
-
