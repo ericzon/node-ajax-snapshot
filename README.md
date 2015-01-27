@@ -1,7 +1,7 @@
 node-ajax-snapshot
 ==================
 
-Node wrapper of [phantomjs-ajax-snapshot](https://github.com/ericzon/phantomjs-ajax-snapshot), generates static pages from ajax / non-ajax source pages and allows stripping of DOM elements identifying them by id, class, name or meta-property (only for meta tags).
+Nodejs wrapper of [phantomjs-ajax-snapshot](https://github.com/ericzon/phantomjs-ajax-snapshot), generates static pages from ajax / non-ajax source pages and allows stripping of DOM elements identifying them by id, class, name or meta-property (only for meta tags).
 
 ## Installation
 
