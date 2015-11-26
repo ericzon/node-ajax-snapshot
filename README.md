@@ -113,7 +113,8 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Changelog
 
-* 0.0.3 Added phantom's parameter to avoid errors.
+* 0.0.4 Added format parameter.
+  0.0.3 Added phantom's parameter to avoid errors.
   0.0.2 Added better docs.
   0.0.1 Initial commit
 
