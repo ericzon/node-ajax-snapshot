@@ -33,6 +33,8 @@ Nodejs wrapper of [phantomjs-ajax-snapshot](https://github.com/ericzon/phantomjs
 
     -debug    (boolean) Enables debug messages (false by default).
 
+    -outputFormat: (string) pdf (html by default).
+
 ## Examples
 
 ```javascript
@@ -45,13 +47,13 @@ Nodejs wrapper of [phantomjs-ajax-snapshot](https://github.com/ericzon/phantomjs
 
 ```javascript
 
-    var nasStream = nap.takeSnapshots({
+    var nasStream = nas.takeSnapshots({
           sourceFile: 'urlFile.json'            // file with json array format, containing the set of urls to generate.
         });
 
     or with an url directly:
 
-    var nasStream = nap.takeSnapshots({
+    var nasStream = nas.takeSnapshots({
           sourceUrl: 'www.ajax-example.com/basepath/'           // url to generate.
         });
 ```
