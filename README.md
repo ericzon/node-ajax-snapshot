@@ -33,7 +33,7 @@ Nodejs wrapper of [phantomjs-ajax-snapshot](https://github.com/ericzon/phantomjs
 
     -debug    (boolean) Enables debug messages (false by default).
 
-    -outputFormat: (string) pdf (html by default).
+    -outputFormat: (string) png gif jpeg pdf (html by default).
 
 ## Examples
 
