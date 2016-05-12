@@ -1,6 +1,6 @@
 {
   "name": "node-ajax-snapshot",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Nodejs wrapper of phantomjs-ajax-snapshot, generates static pages from ajax / non-ajax source pages and allows stripping of DOM elements identifying them by id, class, name or meta-property (only for meta tags).",
   "main": "index.js",
   "dependencies": {
